@@ -213,6 +213,7 @@ section h2::after{
   border:1px solid rgba(255,152,0,.45);
   font-size:14px;
   font-weight:900;
+  text-decoration: none;
 }
 
 /* FOOTER */
@@ -435,6 +436,7 @@ footer p{
     font-size:11px;
     padding:8px 11px;
     margin-top:12px;
+    text-decoration: none;
   }
 
   footer{
@@ -513,6 +515,7 @@ footer p{
   .price-badge{
     font-size:10px;
     padding:7px 10px;
+    text-decoration: none;
   }
 
   .stats-box{
